@@ -1,7 +1,7 @@
 ### Welcome to my professional profile 👋
 <div>
 <a href="https://github.com/jotave-erref/jotave-erref">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jotave-erref&show_icons=true&theme=dark&include_all_commits=true&hide="/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jotave-erref&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotave-erref&layout=compact&langs_count=10&theme=dark&size_weight=0.5&count_weight=0.5"/>
   </div>
 
