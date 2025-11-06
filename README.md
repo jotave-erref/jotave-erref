@@ -54,17 +54,12 @@
 
 ### 📈 Estatísticas do GitHub
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=jotave-erref&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&card_width=400" alt="Estatísticas do GitHub" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotave-erref&theme=github_dark&hide_border=true" alt="Sequência de Contribuições" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotave-erref&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
     </td>
   </tr>
