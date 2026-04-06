@@ -65,12 +65,6 @@
   </tr>
 </table>
 
-### 📊 Gráfico de Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jotave-erref&theme=github-dark&hide_border=true&area=true&line=2aa889&point=1f883d" alt="Gráfico de Atividade" />
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jotave-erref&label=Profile%20views&color=0e75b6&style=flat" alt="Visualizações do Perfil" />
